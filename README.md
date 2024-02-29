@@ -25,6 +25,10 @@ This calculator project provides a user-friendly interface with buttons for digi
 - CSS
 - JavaScript
 
+## Screenshots
+
+![Screenshot 2024-02-29 025449](https://github.com/DevZRodz/Calculator/assets/153594695/66217dbb-be19-4819-b366-5b8d232ca0a6)
+
 ## Link
 
 - https://devzrodz.github.io/Calculator/
